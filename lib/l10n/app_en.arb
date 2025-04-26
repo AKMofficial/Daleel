@@ -1,0 +1,11 @@
+{
+  "@@locale": "en",
+  "appTitle": "Daleel",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  "skipButton": "Skip",
+  "@skipButton": {
+    "description": "Label for the button to skip the onboarding process"
+  }
+} 

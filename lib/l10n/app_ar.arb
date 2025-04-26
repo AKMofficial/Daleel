@@ -1,0 +1,11 @@
+{
+  "@@locale": "ar",
+  "appTitle": "دليل",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  "skipButton": "تخطّ",
+  "@skipButton": {
+    "description": "Label for the button to skip the onboarding process"
+  }
+} 
